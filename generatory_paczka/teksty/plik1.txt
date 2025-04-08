@@ -1,0 +1,2 @@
+To jest pierwsza linia pliku 1.
+To jest druga linia pliku 1.
