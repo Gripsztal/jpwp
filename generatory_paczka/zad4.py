@@ -1,3 +1,4 @@
+# Zad. 4
 # Napisz program, który za pomocą iteratora odczytuje linie z pliku logów.
 # Program powinien:
 # - Liczyć, ile razy występuje data i godzina w formacie "YYYY-MM-DD HH:MM:SS" w pliku,
