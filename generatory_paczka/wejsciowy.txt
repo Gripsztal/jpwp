@@ -1,0 +1,9 @@
+Użytkownik A wykonał akcję.
+
+
+Błąd: Nie udało się połączyć z serwerem.
+
+Użytkownik B wykonał akcję.
+
+
+Błąd: Brak uprawnień do dostępu.
