@@ -25,3 +25,8 @@
 # - Liczyć, ile razy występuje data i godzina w formacie "YYYY-MM-DD HH:MM:SS" w pliku,
 # - Wydrukować wszystkie linie, które zawierają daty w tym formacie.
 # Wykorzystaj iterator do odczytu pliku linia po linii.
+
+# Zad. 5
+# Użyj `itertools.count`, aby stworzyć nieskończony licznik zaczynający się od 10,
+# który zwiększa się co 5.
+# Następnie przerwij działanie po znalezieniu 5 liczb (podzielnych przez 3).
