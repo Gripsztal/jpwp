@@ -5,9 +5,9 @@
 
 import requests
 
-def pobierz_dane(url):
-    page = 1  
-    while True:
+def pobierz_dane(url, max_pages=3):
+    page = 1
+    while page <= max_pages:
         response = requests.get(f"{url}?page={page}") 
         if response.status_code != 200: 
             print(f"Error: {response.status_code} for {url}")  
