@@ -24,7 +24,7 @@ def pobierz_dane(url):
 
 
 
-url = "https://dog.ceo/dog-api/"  
+url = "https://randomuser.me/api"  
 #Użyj generatora do iteracji po wynikach
 #
 #
